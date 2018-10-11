@@ -1,0 +1,12 @@
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\CiaranSiteAutomation.exe.config
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\CiaranSiteAutomation.exe
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\CiaranSiteAutomation.pdb
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.dll
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.xml
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.csproj.CopyComplete
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.exe
+C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.pdb
