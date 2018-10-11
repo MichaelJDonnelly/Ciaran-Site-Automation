@@ -27,7 +27,7 @@ namespace CiaranSiteAutomation
         [FindsBy(How = How.CssSelector, Using = "#comp-jg0051uy3bg")]
         public IWebElement About { get; set; }
 
-        [FindsBy(How = How.CssSelector, Using = "#comp-jg0051uy4bg")]
+        [FindsBy(How = How.CssSelector, Using = "#comp-jg0051uy5bg")]
         public IWebElement Contents { get; set; }
 
         [FindsBy(How = How.CssSelector, Using = "#comp-jg0051uy5bg")]

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace CiaranSiteAutomation
@@ -10,10 +11,19 @@ namespace CiaranSiteAutomation
     {
         static void Main()
         {
-            Menu menu = new Menu();
+            Driver.driver.Navigate().GoToUrl("https://ciarandonnellymusi.wixsite.com/hnc-website/home-1");
+
+            NavigateTo.StoreThroughTheMenu();
+
+            Thread.Sleep(500);
 
             Driver.driver.Navigate().GoToUrl("https://ciarandonnellymusi.wixsite.com/hnc-website/home-1");
-            menu.Home.Click();
+
+            NavigateTo.StoreThroughContents();
+
+            Thread.Sleep(500);
+
+            Driver.driver.Quit();
         }
     }
 }

@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config.cs" />
+    <Compile Include="ContentsPage.cs" />
     <Compile Include="Driver.cs" />
     <Compile Include="Entrypoint.cs" />
     <Compile Include="HomePage.cs" />

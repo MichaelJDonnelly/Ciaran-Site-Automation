@@ -10,3 +10,15 @@ C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debu
 C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.csproj.CopyComplete
 C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.exe
 C:\Users\Michael\source\repos\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.pdb
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.csprojAssemblyReference.cache
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.csproj.CoreCompileInputs.cache
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\CiaranSiteAutomation.exe.config
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\CiaranSiteAutomation.exe
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\CiaranSiteAutomation.pdb
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.dll
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.Support.dll
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.xml
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\bin\Debug\WebDriver.Support.xml
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.csproj.CopyComplete
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.exe
+\\DEEGFS01.tul.solarwinds.net\Home$\michael.donnelly\My Documents\GitHub\Ciaran-Site-Automation\CiaranSiteAutomation\CiaranSiteAutomation\obj\Debug\CiaranSiteAutomation.pdb
