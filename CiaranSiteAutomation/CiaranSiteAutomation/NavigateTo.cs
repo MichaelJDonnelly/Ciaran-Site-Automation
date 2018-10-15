@@ -26,5 +26,27 @@ namespace CiaranSiteAutomation
             Thread.Sleep(5000);
         }
 
+    public static void AutumnThroughStore()
+        {
+            StorePage storePage = new StorePage();
+            Menu menu = new Menu();
+            menu.Store.Click();
+            Thread.Sleep(5000);
+            storePage.Autumn.Click();
+            Thread.Sleep(5000);
+        }
+        public static void MasksThroughStore()
+        {
+            StorePage storePage = new StorePage();
+            Menu menu = new Menu();
+            menu.Store.Click();
+            Thread.Sleep(5000);
+            storePage.Masks.Click();
+            Thread.Sleep(5000);
+        }
+
+
+
+
     }
 }
